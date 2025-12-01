@@ -29,9 +29,5 @@ A passionate **Full Stack Web Developer** who loves building clean, modern, and 
 
 ---
 
-## 📊 GitHub Stats  
 
-![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjalimunde652&show_icons=true&theme=radical)
-
----
 
